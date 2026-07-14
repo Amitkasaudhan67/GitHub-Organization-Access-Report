@@ -1,0 +1,3 @@
+com\github\accessreport\client\GithubClientTest.class
+com\github\accessreport\service\GithubServiceTest.class
+com\github\accessreport\controller\AccessReportControllerTest.class
